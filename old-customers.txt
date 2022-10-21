@@ -1,0 +1,21 @@
+
+Customer I'D: 1234
+Name : Shivam
+Age : 22
+Mobile No. : 2147483647
+Address : 
+Gender : 
+
+Customer I'D: 1234
+Name : Shivam
+Age : 22
+Mobile No. : 123456789
+Address : shivam@123
+Gender : M
+
+Customer I'D: 123
+Name : Saurabh
+Age : 25
+Mobile No. : 147025036
+Address : saurabh@567
+Gender : M
